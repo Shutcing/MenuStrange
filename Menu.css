@@ -1207,7 +1207,7 @@ body{
 
 	.menu__zoom {
 		width: 93%;
-		height: 52%;
+		height: 50%;
 		margin: 0 0 0 -19%;
 	}
 	.zoom__img {
@@ -1220,7 +1220,7 @@ body{
 	.zoom__text {
 		width: 50%;
 		font-size: 100px;
-		margin-top: 5.2%;
+		margin-top: 6.1%;
 		margin-left: 2.7%;
 	}
 	.zoom__title{
